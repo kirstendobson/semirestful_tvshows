@@ -1,0 +1,23 @@
+*{
+    font-family: sans-serif;
+    margin: 10px;
+}
+table{
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+th, td{
+    text-align: left;
+    border: solid 1px black;
+    padding: 5px;
+}
+th{
+    background-color: gray;
+    
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
+#table{
+    margin: 45px 0px;
+}

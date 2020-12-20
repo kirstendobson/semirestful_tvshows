@@ -1,0 +1,11 @@
+*{
+    font-family: sans-serif;
+    margin: 10px;
+}
+#back{
+    float: right;
+}
+#show_info{
+    margin: 35px 0px 75px;
+}
+
